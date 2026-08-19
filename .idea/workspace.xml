@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d458c95-41da-4324-8fb2-e3959fb2f92e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-JPA/src/main/java/br/com/jonas/Spring_boot_essentials/database/repository/ITreinosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-JPA/src/main/java/br/com/jonas/Spring_boot_essentials/database/repository/ITreinosRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-JPA/src/main/java/br/com/jonas/Spring_boot_essentials/service/AlunosService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-JPA/src/main/java/br/com/jonas/Spring_boot_essentials/service/AlunosService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/.postman/resources.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/.postman/resources.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/postman/collections/New Collection/.resources/definition.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/postman/collections/New Collection/.resources/definition.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/postman/collections/New Collection/New Folder/.resources/definition.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/postman/collections/New Collection/New Folder/.resources/definition.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/postman/collections/New Collection/New Request.request.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/postman/collections/New Collection/New Request.request.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/postman/globals/workspace.globals.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/postman/globals/workspace.globals.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/SpringBootEssentialsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/SpringBootEssentialsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/controller/AlunosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/controller/AlunosController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/database/model/AlunosAntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/database/model/AlunosAntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/database/repository/IAlunosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/database/repository/IAlunosRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/database/repository/ITreinosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/database/repository/ITreinosRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/hendler/GlobalExceptionHendler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/hendler/GlobalExceptionHendler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/service/AlunosService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/java/br/com/jonas/Spring_boot_essentials/service/AlunosService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/test/java/br/com/jonas/Spring_boot_essentials/SpringBootEssentialsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-essentials-security/src/test/java/br/com/jonas/Spring_boot_essentials/SpringBootEssentialsApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000004" />
+      <entry key="S2" value="1.0001715299337126" />
+      <entry key="S5" value="1.055489013380905" />
+      <entry key="S10" value="1.4965975858364584" />
+      <entry key="S30" value="3.8687464171014585" />
+      <entry key="S60" value="5.93371334022701" />
+      <entry key="M2" value="8.06101709665132" />
+      <entry key="M5" value="14.106258605726522" />
+      <entry key="M10" value="22.83397201993806" />
+      <entry key="M15" value="28.385787618183485" />
+      <entry key="M30" value="36.37292455929218" />
+      <entry key="H1" value="41.63469025697603" />
+      <entry key="H2" value="44.66493869500721" />
+      <entry key="H4" value="46.29238653943946" />
+      <entry key="D1" value="47.70965377761343" />
+      <entry key="W1" value="47.95837893075388" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.441737669074777E-12" />
+      <entry key="MS500" value="0.005097480264409995" />
+      <entry key="S2" value="0.26724341315222705" />
+      <entry key="S5" value="0.6089001746325058" />
+      <entry key="S10" value="0.9498301932803088" />
+      <entry key="S30" value="2.213713546006726" />
+      <entry key="S60" value="3.4149830643773074" />
+      <entry key="M2" value="4.668645778470401" />
+      <entry key="M5" value="7.253445675266348" />
+      <entry key="M10" value="10.223465279723731" />
+      <entry key="M15" value="11.994580708029407" />
+      <entry key="M30" value="14.47293850951209" />
+      <entry key="H1" value="16.077964546070053" />
+      <entry key="H2" value="16.99525983881025" />
+      <entry key="H4" value="17.486138257685944" />
+      <entry key="D1" value="17.912710211806093" />
+      <entry key="W1" value="17.987489045303686" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848664428957131" />
+      <entry key="S2" value="0.9969804739311945" />
+      <entry key="S5" value="1.1139259633095164" />
+      <entry key="S10" value="1.8342654036064516" />
+      <entry key="S30" value="5.551681290143995" />
+      <entry key="S60" value="8.949428154936824" />
+      <entry key="M2" value="12.47072709800663" />
+      <entry key="M5" value="21.224662363608967" />
+      <entry key="M10" value="32.97536654376019" />
+      <entry key="M15" value="40.320097291231484" />
+      <entry key="M30" value="50.81189019221111" />
+      <entry key="H1" value="57.694434426244" />
+      <entry key="H2" value="61.650736714332716" />
+      <entry key="H4" value="63.7736999174592" />
+      <entry key="D1" value="65.62154624243342" />
+      <entry key="W1" value="65.94575081458595" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3I5KtF3L1xtSEqeamy7nAWQnJDe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jonas/Documents/Projetos/myrella-love&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d458c95-41da-4324-8fb2-e3959fb2f92e" name="Changes" comment="" />
+      <created>1787049203201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787049203201</updated>
+      <workItem from="1787049204256" duration="701000" />
+      <workItem from="1787133394121" duration="1419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
