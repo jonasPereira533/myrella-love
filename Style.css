@@ -1,0 +1,14 @@
+:root {
+    --cor-1: #561c24;
+    --cor-2: #6d2932;
+    --cor-3: #c7b7a3;
+    --cor-4: #e8d8c4; 
+  }
+
+  .body{
+    background-color: var(--cor-1);
+  }
+
+  .feed {
+    background-color: var(--cor-3);
+  }
